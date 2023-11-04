@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a Raku routine using 'curl' to determine if a URL will download a file",
+  "license": "Artistic-2.0",
+  "name": "WebFileExists",
+  "perl": "6.d",
+  "provides": {
+    "WebFileExists": "lib/WebFileExists.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

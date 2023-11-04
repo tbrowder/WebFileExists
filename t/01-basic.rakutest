@@ -1,0 +1,6 @@
+use Test;
+use WebFileExists;
+
+pass "replace me";
+
+done-testing;
